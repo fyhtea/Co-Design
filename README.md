@@ -7,6 +7,10 @@ A collection of works for software/hardware co-design in deep learning.
 
 ## **Modeling for Hardware**
 
+- Aladdin: APre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures
+- PARADE: A Cycle-Accurate Full-System Simulation Platform for Accelerator-Rich Architectural Design and Exploration
+- Co-Designing Accelerators and SoC Interfaces using gem5-Aladdin
+
 ## **Tutorial & survey**
 
 - [Effient ..]()
